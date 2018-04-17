@@ -16,5 +16,5 @@ function addScript(url) {
   head.appendChild(script);
 }
 
-addScript('');
+addScript('https://cdn.rawgit.com/bares43/jidelna-bananovac/5cf420ab/ban.js');
 ```
