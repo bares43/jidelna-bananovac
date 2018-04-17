@@ -1,0 +1,14 @@
+.banned-food {
+  text-decoration: line-through;
+}
+.banned-food-btn {
+  margin-left: 10px;
+  padding: 5px;
+  color: white;
+  border: none;
+  background-color: #D32F2F;
+  cursor: pointer;
+}
+.banned-food .banned-food-btn {
+  background-color: #2E7D32;
+}
