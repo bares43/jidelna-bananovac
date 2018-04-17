@@ -79,6 +79,6 @@ function addGlobalStyle(css) {
   head.appendChild(style);
 }
 
-addGlobalStyle('');
+addGlobalStyle('https://cdn.rawgit.com/bares43/jidelna-bananovac/c3f8d29d/ban.css');
 
 render();
